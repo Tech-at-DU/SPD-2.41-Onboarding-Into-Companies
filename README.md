@@ -1,4 +1,4 @@
-# SPD 2.4 Job Search and Interview Practice
+# SPD 2.41 Job Search and Interview Practice
 
 ## Course Description
 
