@@ -39,11 +39,11 @@ By the end of the course, you will be able to ...
 |  4 | Thu, April 9               | [Interview Practice] |
 |  5 | Tue, April 14               | Work Day + Instructor Checkins |
 |  6 | Thu, April 16               | [Interview Practice 3] |
-|  7 | Tue, April 21              | [Working with Different Personalities] |
+|  7 | Tue, April 21              | [Finances Self-Paced Workshop] |
 |  8 | Thu, April 23              | [Interview Practice] |
-|  9 | Tue, April 28              | [Managing Up] |
+|  9 | Tue, April 28              | [Negotiation Practice] and [Managing Up] |
 | 10 | Thu, April 30              | [Interview Practice] |
-| 11 | Tue, May 5              | [Negotiation Practice] |  
+| 11 | Tue, May 5              | [Onboarding Into Legacy Code] |  
 | 12 | Thu, May 7              | [Interview Practice]|
 | 13 | Tue, May 12                  | [Peer Interviews] |
 | 14 | Thu, May 14                  | [Interview Practice] |
@@ -51,9 +51,10 @@ By the end of the course, you will be able to ...
 
 [Goals & Job Search Process]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.kldboupi8h8x
 [Informational Interviews]: https://docs.google.com/presentation/d/1cGDwy3WGalNcPZFFl-8PWOy-gz-Z1zLbsxnbxZy3DUM/edit#slide=id.p
-[Working with Different Personalities]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.pk244s4l73wo
+[Finances Self-Paced Workshop]: insert reference to Dan's workshop here!
 [Managing Up]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.btm6vus5ypao
 [Negotiation Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.xjdoicqxlzev
+[Onboarding Into Legacy Code]: insert reference to Kami's materials here!
 [Peer Interviews]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.2semf036b5pb
 [Interview Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75
 [Interview Practice 3]: https://docs.google.com/document/d/1KDxtUoaEOSA4IZZjgeN1ZgvI2zc9WAKKOVAzkb5SrsM/edit#heading=h.y7dpc3j21pod
