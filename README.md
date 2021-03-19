@@ -1,4 +1,4 @@
-# SPD 2.41 Job Search and Interview Practice
+# SPD 2.41 Onboarding Into Companies
 
 ## Course Description
 
@@ -33,28 +33,25 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 | Tue, March 31               | [Goals & Job Search Process] |
-|  2 | Thu, April 2               | [Interview Practice] |
-|  3 | Tue, April 7               | [Informational Interviews] |
-|  4 | Thu, April 9               | [Interview Practice] |
-|  5 | Tue, April 14               | Work Day + Instructor Checkins |
-|  6 | Thu, April 16               | [Interview Practice 3] |
-|  7 | Tue, April 21              | [Finances Self-Paced Workshop] |
-|  8 | Thu, April 23              | [Interview Practice] |
-|  9 | Tue, April 28              | [Negotiation Practice] and [Managing Up] |
-| 10 | Thu, April 30              | [Interview Practice] |
-| 11 | Tue, May 5              | [Onboarding Into Legacy Code] |  
-| 12 | Thu, May 7              | [Interview Practice]|
-| 13 | Tue, May 12                  | [Peer Interviews] |
-| 14 | Thu, May 14                  | [Interview Practice] |
-
+|  1 | Tue, March 30               | [Goals & Job Search Process] |
+|  - | Thu, April 1               | **No Class - Cesar Chavez** |
+|  2 | Tue, April 6               | [Interview Practice] |
+|  3 | Thu, April 8               | [Informational Interviews] |
+|  4 | Tue, April 13               | [Interview Practice] |
+|  5 | Thu, April 15               | Work Day + Instructor Checkins |
+|  6 | Tue, April 20               | [Interview Practice 3] |
+|  7 | Thu, April 22              | Finances Self-Paced Workshop |
+|  8 | Tue, April 27              | [Interview Practice] |
+|  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
+| 10 | Tue, May 4              | [Interview Practice] |
+| 11 | Thu, May 6              | Onboarding Into Legacy Code |  
+| 12 | Tue, May 11              | [Interview Practice]|
+| 13 | Thu, May 13                  | [Peer Interviews] |
 
 [Goals & Job Search Process]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.kldboupi8h8x
 [Informational Interviews]: https://docs.google.com/presentation/d/1cGDwy3WGalNcPZFFl-8PWOy-gz-Z1zLbsxnbxZy3DUM/edit#slide=id.p
-[Finances Self-Paced Workshop]: insert reference to Dan's workshop here!
 [Managing Up]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.btm6vus5ypao
 [Negotiation Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.xjdoicqxlzev
-[Onboarding Into Legacy Code]: insert reference to Kami's materials here!
 [Peer Interviews]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.2semf036b5pb
 [Interview Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75
 [Interview Practice 3]: https://docs.google.com/document/d/1KDxtUoaEOSA4IZZjgeN1ZgvI2zc9WAKKOVAzkb5SrsM/edit#heading=h.y7dpc3j21pod
@@ -63,13 +60,13 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| Term 3 Job goals                                          |  Tue, Mar 21  |  Tue, Apr 7  | Submit in Tracker  |
-| Linkedin up to date                                       |  Tue, Mar 21  |  Tue, Apr 14 | Submit in Tracker  |
-| [Job Search Tutorial] + making warm connections           |  Tue, Mar 21  |  Tue, Apr 21 | Submit in Tracker  |
-| Resume up to date                                         |  Tue, Mar 21  |  Tue, Apr 28 | Submit in Tracker  |
-| Conduct 3 informational interviews                        |  Tue, Apr 7   |  Tue, May 5  | Submit in Tracker  |
-| Complete Portfolio update initiative                      |  Tue, Apr 14  | Tue, May 12  | Submit in Tracker  |
-| Negotiation evaluation w/ instructor                      |  Tue, Apr 28  |  Tue, May 5  | Done with instructor  |
+| Term 3 Job goals                                          |  Tue, Mar 30  |  Thu, Apr 8  | Submit in Tracker  |
+| Linkedin up to date                                       |  Tue, Mar 30  |  Tue, Apr 13 | Submit in Tracker  |
+| [Job Search Tutorial] + making warm connections           |  Tue, Mar 30  |  Tue, Apr 20 | Submit in Tracker  |
+| Resume up to date                                         |  Tue, Mar 30  |  Thu, Apr 29 | Submit in Tracker  |
+| Conduct 3 informational interviews                        |  Tue, Apr 6   |  Tue, May 4  | Submit in Tracker  |
+| Complete Portfolio update initiative                      |  Tue, Apr 13  | Tue, May 11  | Submit in Tracker  |
+| Negotiation evaluation w/ instructor                      |  Tue, Apr 29  |  Tue, May 4  | Done with instructor  |
 
 
 [Job Search Tutorial]:https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#
