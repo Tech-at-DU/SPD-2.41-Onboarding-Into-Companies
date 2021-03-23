@@ -25,7 +25,11 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, March 31 – Thursday, May 14, 2020 (7 weeks)
+<!-- tabs:start -->
+<!-- omit in toc -->
+### **Section A: Kami**
+
+**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2020 (7 weeks)
 
 **Class Times:** Tuesday, Thursday at 9:30am–12:15pm (14 class sessions)
 
@@ -47,6 +51,34 @@ By the end of the course, you will be able to ...
 | 11 | Thu, May 6              | Onboarding Into Legacy Code |  
 | 12 | Tue, May 11              | [Interview Practice]|
 | 13 | Thu, May 13                  | [Peer Interviews] |
+
+<!-- omit in toc -->
+### **Section B: Jay - HYBRID**
+
+**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2020 (7 weeks)
+
+**Class Times:** Tuesday, Thursday at 9:30am–12:15pm (14 class sessions)
+
+**Resource for Interview Practice:** [Technical Interview Question Bank](https://docs.google.com/document/d/1d08CZ4lk3lLPu0HwXvmYLLKBWCnwD4qhSvrrJ1e7TOE/edit)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 | Tue, March 30               | [Goals & Job Search Process] |
+|  - | Thu, April 1               | **No Class - Cesar Chavez** |
+|  2 | Tue, April 6               | [Interview Practice] |
+|  3 | Thu, April 8               | [Informational Interviews] |
+|  4 | Tue, April 13               | [Interview Practice] |
+|  5 | Thu, April 15               | Work Day + Instructor Checkins |
+|  6 | Tue, April 20               | [Interview Practice 3] |
+|  7 | Thu, April 22              | Finances Self-Paced Workshop |
+|  8 | Tue, April 27              | [Interview Practice] |
+|  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
+| 10 | Tue, May 4              | [Interview Practice] |
+| 11 | Thu, May 6              | Onboarding Into Legacy Code |  
+| 12 | Tue, May 11              | [Interview Practice]|
+| 13 | Thu, May 13                  | [Peer Interviews] | 
+
+<!-- tabs:end -->
 
 [Goals & Job Search Process]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.kldboupi8h8x
 [Informational Interviews]: https://docs.google.com/presentation/d/1cGDwy3WGalNcPZFFl-8PWOy-gz-Z1zLbsxnbxZy3DUM/edit#slide=id.p
