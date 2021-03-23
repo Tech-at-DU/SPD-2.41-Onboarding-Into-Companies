@@ -6,7 +6,7 @@ This course offers structured support for the job search. The course starts with
 
 ## Prerequisites:  
 
-- [SPD 2.3](https://github.com/Make-School-Courses/SPD-2.3-Onboarding)
+- [SPD 2.31](https://github.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture)
 
 ## Course Specifics
 
