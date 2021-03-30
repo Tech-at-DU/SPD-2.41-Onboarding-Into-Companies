@@ -104,7 +104,7 @@ By the end of the course, you will be able to ...
 [Job Search Tutorial]:https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#
 
 ## [Course Tracker](https://docs.google.com/spreadsheets/d/177VINzmBa23oLl5ndTbIE3ic5Dhv9L4JBclCDdLQnk4/edit#gid=136456159)
-
+- [Kami's course tracker](https://docs.google.com/spreadsheets/d/14LTz65Z_786JFu5botVTpW6V4PRxLSd4KJYRSUIRAUM/edit?usp=sharing)
 ## Class Assignments
 
 ### Term 3 Job goals
