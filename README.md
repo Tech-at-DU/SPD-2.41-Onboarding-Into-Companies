@@ -29,7 +29,7 @@ By the end of the course, you will be able to ...
 <!-- omit in toc -->
 ### **Section A: Kami**
 
-**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2020 (7 weeks)
+**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
 
 **Class Times:** Tuesday, Thursday at 9:30am–12:15pm (14 class sessions)
 
@@ -55,7 +55,7 @@ By the end of the course, you will be able to ...
 <!-- omit in toc -->
 ### **Section B: Jay - HYBRID**
 
-**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2020 (7 weeks)
+**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
 
 **Class Times:** Tuesday, Thursday at 9:30am–12:15pm (14 class sessions)
 
@@ -136,7 +136,7 @@ Complete the [Portfolio Audit worksheet](https://docs.google.com/document/d/1xSz
 
 ### Negotiation evaluation with instructor
 
-Pass verbal negotiation practice and verbal assessment outlining content in the [Salary Negotiation Guide](https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#)by answering >70% of questions correctly.
+Pass verbal negotiation practice and verbal assessment outlining content in the [Salary Negotiation Guide](https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#) by answering >70% of questions correctly.
 
 ### Technical Interview Practice
 
