@@ -39,7 +39,7 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 | Tue, March 30               | [Goals & Job Search Process] |
 |  - | Thu, April 1               | **No Class - Cesar Chavez** |
-|  2 | Tue, April 6               | [Interview Practice] |
+|  2 | Tue, April 6               | [LinkedIn Audit, Employee Goals, Interview Process](https://docs.google.com/document/d/1oUSfdkyLEeLWwyHKVMdHV9DirDfSQxoPWVM0LqwvRxs/edit?usp=sharing) |
 |  3 | Thu, April 8               | [Informational Interviews] |
 |  4 | Tue, April 13               | [Interview Practice] |
 |  5 | Thu, April 15               | Work Day + Instructor Checkins |
