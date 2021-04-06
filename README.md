@@ -100,11 +100,15 @@ By the end of the course, you will be able to ...
 | Complete Portfolio update initiative                      |  Tue, Apr 13  | Tue, May 11  | Submit in Tracker  |
 | Negotiation evaluation w/ instructor                      |  Tue, Apr 29  |  Tue, May 4  | Done with instructor  |
 
+## Class Recordings
+
+All class recordings for Jay's class will be available [here](https://drive.google.com/drive/folders/1JD1rOTxgctBheqxFRRhNM-fbV-2YOgD_?usp=sharing) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the Make School student body.
 
 [Job Search Tutorial]:https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#
 
 ## [Course Tracker](https://docs.google.com/spreadsheets/d/177VINzmBa23oLl5ndTbIE3ic5Dhv9L4JBclCDdLQnk4/edit#gid=136456159)
 - [Kami's course tracker](https://docs.google.com/spreadsheets/d/14LTz65Z_786JFu5botVTpW6V4PRxLSd4KJYRSUIRAUM/edit?usp=sharing)
+- [Jay's course tracker](https://docs.google.com/spreadsheets/d/1lB_MdzqZqxb71dWIbUBWj7g8tYFpa31TBz1zv2rm-Hk/edit?usp=sharing)
 ## Class Assignments
 
 ### Term 3 Job goals
