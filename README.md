@@ -81,7 +81,7 @@ By the end of the course, you will be able to ...
 <!-- tabs:end -->
 
 [Goals & Job Search Process]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.kldboupi8h8x
-[Informational Interviews]: https://docs.google.com/presentation/d/1cGDwy3WGalNcPZFFl-8PWOy-gz-Z1zLbsxnbxZy3DUM/edit#slide=id.p
+[Informational Interviews]:https://docs.google.com/presentation/d/1n5vzGwNk5KPhAcAq-Lok7S3cN6KDbPgqgkrohZ9FoCU/edit?usp=sharing
 [Managing Up]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.btm6vus5ypao
 [Negotiation Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.xjdoicqxlzev
 [Peer Interviews]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.2semf036b5pb
