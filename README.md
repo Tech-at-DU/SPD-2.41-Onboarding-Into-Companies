@@ -41,7 +41,7 @@ By the end of the course, you will be able to ...
 |  - | Thu, April 1               | **No Class - Cesar Chavez** |
 |  2 | Tue, April 6               | [LinkedIn Audit, Employee Goals, Interview Process](https://docs.google.com/document/d/1oUSfdkyLEeLWwyHKVMdHV9DirDfSQxoPWVM0LqwvRxs/edit?usp=sharing) |
 |  3 | Thu, April 8               | [Informational Interviews] |
-|  4 | Tue, April 13               | [Interview Practice] |
+|  4 | Tue, April 13               | [Technical Interviewing Lessons: 1](https://docs.google.com/document/d/1aKniA3KURL-OuDe7txSwVGD82baluxgelJZsCn4na_4/edit?usp=sharing) |
 |  5 | Thu, April 15               | Work Day + Instructor Checkins |
 |  6 | Tue, April 20               | [Interview Practice 3] |
 |  7 | Thu, April 22              | Finances Self-Paced Workshop |
