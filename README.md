@@ -106,8 +106,8 @@ All class recordings for Jay's class will be available [here](https://drive.goog
 
 [Job Search Tutorial]:https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#
 
-## [Course Tracker](https://docs.google.com/spreadsheets/d/177VINzmBa23oLl5ndTbIE3ic5Dhv9L4JBclCDdLQnk4/edit#gid=136456159)
-- [Kami's course tracker](https://docs.google.com/spreadsheets/d/14LTz65Z_786JFu5botVTpW6V4PRxLSd4KJYRSUIRAUM/edit?usp=sharing)
+## Course Tracker
+- Kami's class uses gradescope for all assignments.
 - [Jay's course tracker](https://docs.google.com/spreadsheets/d/1lB_MdzqZqxb71dWIbUBWj7g8tYFpa31TBz1zv2rm-Hk/edit?usp=sharing)
 ## Class Assignments
 
