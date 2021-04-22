@@ -44,7 +44,7 @@ By the end of the course, you will be able to ...
 |  4 | Tue, April 13               | [Technical Interviewing Lessons: 1](https://docs.google.com/document/d/1aKniA3KURL-OuDe7txSwVGD82baluxgelJZsCn4na_4/edit?usp=sharing) |
 |  5 | Thu, April 15               | [Work Day + Instructor Checkins](https://docs.google.com/document/d/1aKniA3KURL-OuDe7txSwVGD82baluxgelJZsCn4na_4/edit?usp=sharing) |
 |  6 | Tue, April 20               | [Interview Practice 3] |
-|  7 | Thu, April 22              | Finances Self-Paced Workshop |
+|  7 | Thu, April 22              | [Finances Self-Paced Workshop] |
 |  8 | Tue, April 27              | [Interview Practice] |
 |  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
 | 10 | Tue, May 4              | [Interview Practice] |
@@ -70,7 +70,7 @@ By the end of the course, you will be able to ...
 |  4 | Tue, April 13               | [Interview Practice] |
 |  5 | Thu, April 15               | Work Day + Instructor Checkins |
 |  6 | Tue, April 20               | [Interview Practice 3] |
-|  7 | Thu, April 22              | Finances Self-Paced Workshop |
+|  7 | Thu, April 22              | [Finances Self-Paced Workshop] |
 |  8 | Tue, April 27              | [Interview Practice] |
 |  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
 | 10 | Tue, May 4              | [Interview Practice] |
@@ -87,7 +87,7 @@ By the end of the course, you will be able to ...
 [Peer Interviews]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.2semf036b5pb
 [Interview Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75
 [Interview Practice 3]: https://docs.google.com/document/d/1KDxtUoaEOSA4IZZjgeN1ZgvI2zc9WAKKOVAzkb5SrsM/edit#heading=h.y7dpc3j21pod
-
+[Finances Self-Paced Workshop]: https://www.notion.so/SPD-2-41-Finance-Modules-89abf1ee802c498fa4fbe1199637d7bb
 ## Assignment Schedule 
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
