@@ -45,7 +45,7 @@ By the end of the course, you will be able to ...
 |  5 | Thu, April 15               | [Work Day + Instructor Checkins](https://docs.google.com/document/d/1aKniA3KURL-OuDe7txSwVGD82baluxgelJZsCn4na_4/edit?usp=sharing) |
 |  6 | Tue, April 20               | [Interview Practice 3] |
 |  7 | Thu, April 22              | [Finances Self-Paced Workshop] |
-|  8 | Tue, April 27              | [Interview Practice] |
+|  8 | Tue, April 27              | [Interview Practice - Mock Interview 2](https://docs.google.com/document/d/15qF27_SRbUSQmBVkcDa1Nd32GqztJJpdA8fycrghFoE/edit?usp=sharing) |
 |  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
 | 10 | Tue, May 4              | [Interview Practice] |
 | 11 | Thu, May 6              | Onboarding Into Legacy Code |  
