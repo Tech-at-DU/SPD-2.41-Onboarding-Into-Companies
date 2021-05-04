@@ -48,7 +48,7 @@ By the end of the course, you will be able to ...
 |  8 | Tue, April 27              | [Interview Practice - Mock Interview 2](https://docs.google.com/document/d/15qF27_SRbUSQmBVkcDa1Nd32GqztJJpdA8fycrghFoE/edit?usp=sharing) |
 |  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
 | 10 | Tue, May 4              | [Interview Practice] |
-| 11 | Thu, May 6              | Onboarding Into Legacy Code |  
+| 11 | Thu, May 6              | [Onboarding Into large/Legacy Codebase](https://docs.google.com/document/d/1GghOFnehmEPBxqrdlyb_imiLTLKubfaBNHSF0eQ10Mk/edit?usp=sharing) |  
 | 12 | Tue, May 11              | [Interview Practice]|
 | 13 | Thu, May 13                  | [Peer Interviews] |
 
@@ -74,7 +74,7 @@ By the end of the course, you will be able to ...
 |  8 | Tue, April 27              | [Interview Practice] |
 |  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
 | 10 | Tue, May 4              | [Interview Practice] |
-| 11 | Thu, May 6              | Onboarding Into Legacy Code |  
+| 11 | Thu, May 6              | [Onboarding Into large/Legacy Codebase](https://docs.google.com/document/d/1GghOFnehmEPBxqrdlyb_imiLTLKubfaBNHSF0eQ10Mk/edit?usp=sharing) |  
 | 12 | Tue, May 11              | [Interview Practice]|
 | 13 | Thu, May 13                  | [Peer Interviews] | 
 
