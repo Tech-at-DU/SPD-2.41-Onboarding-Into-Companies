@@ -23,97 +23,20 @@ By the end of the course, you will be able to ...
 1. Utilize negotiation best practices
 1. Effectively communicate with a variety of personalities
 
-## Schedule
+## [Schedule](https://docs.google.com/spreadsheets/d/1W9QPg0Q4iekIHTImLf9MCPO-92RVsNEDWLoc5gSNlYE/edit#gid=739715921)
 
-<!-- tabs:start -->
-<!-- omit in toc -->
-### **Section A: Kami**
-
-**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
-
-**Class Times:** Tuesday, Thursday at 9:30am–12:15pm (14 class sessions)
-
-**Resource for Interview Practice:** [Technical Interview Question Bank](https://docs.google.com/document/d/1d08CZ4lk3lLPu0HwXvmYLLKBWCnwD4qhSvrrJ1e7TOE/edit)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 | Tue, March 30               | [Goals & Job Search Process] |
-|  - | Thu, April 1               | **No Class - Cesar Chavez** |
-|  2 | Tue, April 6               | [LinkedIn Audit, Employee Goals, Interview Process](https://docs.google.com/document/d/1oUSfdkyLEeLWwyHKVMdHV9DirDfSQxoPWVM0LqwvRxs/edit?usp=sharing) |
-|  3 | Thu, April 8               | [Informational Interviews] |
-|  4 | Tue, April 13               | [Technical Interviewing Lessons: 1](https://docs.google.com/document/d/1aKniA3KURL-OuDe7txSwVGD82baluxgelJZsCn4na_4/edit?usp=sharing) |
-|  5 | Thu, April 15               | [Work Day + Instructor Checkins](https://docs.google.com/document/d/1aKniA3KURL-OuDe7txSwVGD82baluxgelJZsCn4na_4/edit?usp=sharing) |
-|  6 | Tue, April 20               | [Interview Practice 3] |
-|  7 | Thu, April 22              | [Finances Self-Paced Workshop] |
-|  8 | Tue, April 27              | [Interview Practice - Mock Interview 2](https://docs.google.com/document/d/15qF27_SRbUSQmBVkcDa1Nd32GqztJJpdA8fycrghFoE/edit?usp=sharing) |
-|  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
-| 10 | Tue, May 4              | [Interview Practice] |
-| 11 | Thu, May 6              | [Onboarding Into large/Legacy Codebase](https://docs.google.com/document/d/1GghOFnehmEPBxqrdlyb_imiLTLKubfaBNHSF0eQ10Mk/edit?usp=sharing) |  
-| 12 | Tue, May 11              | [Interview Practice]|
-| 13 | Thu, May 13                  | [Peer Interviews] |
-
-<!-- omit in toc -->
-### **Section B: Jay - HYBRID**
-
-**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
-
-**Class Times:** Tuesday, Thursday at 9:30am–12:15pm (14 class sessions)
-
-**Resource for Interview Practice:** [Technical Interview Question Bank](https://docs.google.com/document/d/1d08CZ4lk3lLPu0HwXvmYLLKBWCnwD4qhSvrrJ1e7TOE/edit)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 | Tue, March 30               | [Goals & Job Search Process] |
-|  - | Thu, April 1               | **No Class - Cesar Chavez** |
-|  2 | Tue, April 6               | [Interview Practice] |
-|  3 | Thu, April 8               | [Informational Interviews] |
-|  4 | Tue, April 13               | [Interview Practice] |
-|  5 | Thu, April 15               | Work Day + Instructor Checkins |
-|  6 | Tue, April 20               | [Interview Practice 3] |
-|  7 | Thu, April 22              | [Finances Self-Paced Workshop] |
-|  8 | Tue, April 27              | [Interview Practice] |
-|  9 | Thu, April 29              | [Negotiation Practice] and [Managing Up] |
-| 10 | Tue, May 4              | [Interview Practice] |
-| 11 | Thu, May 6              | [Onboarding Into large/Legacy Codebase](https://docs.google.com/document/d/1GghOFnehmEPBxqrdlyb_imiLTLKubfaBNHSF0eQ10Mk/edit?usp=sharing) |  
-| 12 | Tue, May 11              | [Interview Practice]|
-| 13 | Thu, May 13                  | [Peer Interviews] | 
-
-<!-- tabs:end -->
-
-[Goals & Job Search Process]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.kldboupi8h8x
-[Informational Interviews]:https://docs.google.com/presentation/d/1n5vzGwNk5KPhAcAq-Lok7S3cN6KDbPgqgkrohZ9FoCU/edit?usp=sharing
-[Managing Up]: https://docs.google.com/document/d/1kYO7jN739_X2cRkQxpQ55HQEZpchs3KR1_WP65Ht4B4/edit?usp=sharing
-[Negotiation Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.xjdoicqxlzev
-[Peer Interviews]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.2semf036b5pb
-[Interview Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75
-[Interview Practice 3]: https://docs.google.com/document/d/1KDxtUoaEOSA4IZZjgeN1ZgvI2zc9WAKKOVAzkb5SrsM/edit#heading=h.y7dpc3j21pod
-[Finances Self-Paced Workshop]: https://www.notion.so/SPD-2-41-Finance-Modules-89abf1ee802c498fa4fbe1199637d7bb
 ## Assignment Schedule 
 
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| Term 3 Job goals                                          |  Tue, Mar 30  |  Thu, Apr 8  | Submit in Tracker  |
-| Linkedin up to date                                       |  Tue, Mar 30  |  Tue, Apr 13 | Submit in Tracker  |
-| [Job Search Tutorial] + making warm connections           |  Tue, Mar 30  |  Tue, Apr 20 | Submit in Tracker  |
-| Resume up to date                                         |  Tue, Mar 30  |  Thu, Apr 29 | Submit in Tracker  |
-| Conduct 3 informational interviews                        |  Tue, Apr 6   |  Tue, May 4  | Submit in Tracker  |
-| Complete Portfolio update initiative                      |  Tue, Apr 13  | Tue, May 11  | Submit in Tracker  |
-| Negotiation evaluation w/ instructor                      |  Tue, Apr 29  |  Tue, May 4  | Done with instructor  |
+See all assignments in row 2 and due dates row 3 of the [progress tracker](https://docs.google.com/spreadsheets/d/1W9QPg0Q4iekIHTImLf9MCPO-92RVsNEDWLoc5gSNlYE/edit#gid=1627861240).
 
-## Class Recordings
+:warning: **Important announcement on work for this class** :warning: : I want this class to be ridiculously useful for everybody who takes it. For this reason, some of the class material, such as technical interview practice, is not as relevant to people who have already landed in the job. For this reason there will be TWO TRACKS of work for folks in the class.
+- :large_blue_circle: + EVERYBODY does Blue columns - this is foundational career success work
+- :large_blue_circle: + 🟢 :large_green_circle: IF YOU ARE JOB SEARCHING, you complete work in Blue and Green Columns, including the technical interview questions. These questions are designed to give focused, deliberate practice on key themes of technical interviews. You can SKIP the work in columns the Purpose Columns that are focused on transitioning into a company after you are already employed.
+- :large_blue_circle: + 🟣 IF YOU ARE ALREADY EMPLOYED you complete work in all columns in  blue and purple columns. The green focuses on technical interview questions, which you've already proved your competency on by getting a job. Instead of doing those technical interview questions you will do the work in columns purple that focuses on helping you succeed at the job you already landed and practice being a senior developer mentor. You'll also be leading technical interviews for classmates.
+Mark if you are job searching or not in column H. Let me know if you have any questions, if you would prefer to do work in any of the other work streams that you naturally fall into!
 
-All class recordings for Jay's class will be available [here](https://drive.google.com/drive/folders/1JD1rOTxgctBheqxFRRhNM-fbV-2YOgD_?usp=sharing) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the Make School student body.
 
 [Job Search Tutorial]:https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#
-
-## Course Tracker
-- Kami's class uses gradescope for all assignments.
-- [Jay's course tracker](https://docs.google.com/spreadsheets/d/1lB_MdzqZqxb71dWIbUBWj7g8tYFpa31TBz1zv2rm-Hk/edit?usp=sharing)
-## Class Assignments
-
-### Term 3 Job goals
-
-Fill in **columns H, I, and J** in the [Course Tracker](https://docs.google.com/spreadsheets/d/177VINzmBa23oLl5ndTbIE3ic5Dhv9L4JBclCDdLQnk4/edit#gid=136456159), and discuss your goals with your instructor.
 
 ### Linkedin up to date
 
@@ -130,13 +53,6 @@ Check 70% of boxes on the [LinkedIn Checklist](https://docs.google.com/document/
 
 Check 70% of boxes on the [Resume Checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9dw8bx66eg63)
 
-### Conduct 3 informational interviews
-
-Conduct 3 informational interviews. [Fill out this template](https://docs.google.com/document/d/1yIf3iYjZ-p1iTdmT_GrRQMecIofhX4t-rjmKTYbNzOY/edit) and link it in the tracker to earn credit.
-
-### Complete Portfolio Audit initiative
-
-Complete the [Portfolio Audit worksheet](https://docs.google.com/document/d/1xSzvTz8118R2uRnULE80IAy7qv54gQO-T4JUIqw1MUg/edit#) and reflection
 
 ### Negotiation evaluation with instructor
 
