@@ -2,11 +2,11 @@
 
 ## Course Description
 
-This course offers structured support for the job search. The course starts with a two day workshop to build a well organized and focused application. After the workshop, the course covers choosing the right company, interviewing and negotiation skills. Make School staff work closely with students throughout the process as well as provide connections to startups and companies in our network including HR professionals, alumni, friends at YC companies and tech giants, and more.
+This course offers structured support for the job search. The course starts with a two day workshop to build a well organized and focused application. After the workshop, the course covers choosing the right company, interviewing and negotiation skills. ACS staff work closely with students throughout the process as well as provide connections to startups and companies in our network including HR professionals, alumni, friends at YC companies and tech giants, and more.
 
 ## Prerequisites:  
 
-- [SPD 2.31](https://github.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture)
+SPD 2.3
 
 ## Course Specifics
 
@@ -87,12 +87,6 @@ In order to pass this course, you must also:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-## Information Resources
-
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
-
-- [make.sc/library](http://make.sc/library)
-
 ## Interview Topics
 
 Write what topis your course covers that students may encounter in a technical interview. Choose from the following sub-topics (pick all that apply):
@@ -112,15 +106,3 @@ Topics:
 Topics:
 - sequencing an interview
 - time management in an interview
-
-## Make School Course Policies
-
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
