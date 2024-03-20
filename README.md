@@ -29,7 +29,7 @@ By the end of the course, you will be able to ...
 
 See all assignments in row 2 and due dates row 3 of the [progress tracker](https://docs.google.com/spreadsheets/d/1W9QPg0Q4iekIHTImLf9MCPO-92RVsNEDWLoc5gSNlYE/edit#gid=1627861240).
 
-<>(
+#(
 :warning: **Important announcement on work for this class** :warning: : I want this class to be ridiculously useful for everybody who takes it. For this reason, some of the class material, such as technical interview practice, is not as relevant to people who have already landed in the job. For this reason there will be TWO TRACKS of work for folks in the class.
 - :large_blue_circle: + EVERYBODY does Blue columns - this is foundational career success work
 - :large_blue_circle: + 🟢 :large_green_circle: IF YOU ARE JOB SEARCHING, you complete work in Blue and Green Columns, including the technical interview questions. These questions are designed to give focused, deliberate practice on key themes of technical interviews. You can SKIP the work in columns the Purpose Columns that are focused on transitioning into a company after you are already employed.
